@@ -14,7 +14,7 @@ public class TesteTriangulo {
             x = new Triangulo();
             y = new Triangulo();
 
-            System.out.println("Insira as medidas do Triangulo X: ");
+             System.out.println("Insira as medidas do Triangulo X: ");
             x.a = scan.nextDouble();
             x.b = scan.nextDouble();
             x.c= scan.nextDouble();

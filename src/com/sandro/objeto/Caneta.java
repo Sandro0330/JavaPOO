@@ -21,8 +21,6 @@ public class Caneta {
         } else {
             System.out.println("Posso rabiscar");
         }
-
-
     }
 
     void tampar() {
