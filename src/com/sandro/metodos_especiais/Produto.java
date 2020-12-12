@@ -26,8 +26,7 @@ public class Produto {
     }
 
     public void setQuantidade(int quantidade) {
-        this.quantidade = quantidade;
-    }
+        this.quantidade = quantidade; }
     public double valorTotal() {
         return preco * quantidade;
     }
