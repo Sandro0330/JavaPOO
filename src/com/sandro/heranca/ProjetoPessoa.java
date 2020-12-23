@@ -22,7 +22,7 @@ public class ProjetoPessoa {
         p4.setSetor("Estoque");
 
         p3.receberAumento(200f);
-        p1.mudarTrabalho();
+        p4.mudarTrabalho();
 
         System.out.println(p1.toString());
         System.out.println(p2.toString());
