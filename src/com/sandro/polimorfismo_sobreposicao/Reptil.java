@@ -1,26 +1,21 @@
-package com.sandro.polimorfismo;
+package com.sandro.polimorfismo_sobreposicao;
 
-public class Peixe extends Animal{
+public class Reptil extends Animal {
     private String corEscama;
 
     @Override
     public void locomover() {
-        System.out.println("Nadando");
+        System.out.println("Ratejando");
     }
 
     @Override
     public void alimentar() {
-        System.out.println("Comendo substâncias");
-
+        System.out.println("Comendo vegetais");
     }
 
     @Override
     public void emitirSom() {
-        System.out.println("Peixe não tem som");
-    }
-
-    public void soltarBolhas() {
-        System.out.println("Soltando bolhas");
+        System.out.println("Som reptil");
     }
 
     public String getCorEscama() {

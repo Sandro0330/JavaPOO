@@ -1,4 +1,4 @@
-package com.sandro.polimorfismo;
+package com.sandro.polimorfismo_sobreposicao;
 
 public class Canguru extends Mamifero{
     @Override

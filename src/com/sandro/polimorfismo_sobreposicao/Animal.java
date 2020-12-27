@@ -1,4 +1,4 @@
-package com.sandro.polimorfismo;
+package com.sandro.polimorfismo_sobreposicao;
 //POLIMORFISMO DE SOBREPOSIÇÃO
 public abstract class Animal {
     //Atributos de Animal
